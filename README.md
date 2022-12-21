@@ -17,7 +17,7 @@ SV1             Data                    15259.4007720947    1124.41172790527
 The Computers parameter and the Drive parameter must be specified.
 # Usage
 ```
-Get-DiskSpace -Computers SV1 -Disk D
+Get-DiskSpace -Computers SV1 -Drive D
 
-Get-DiskSpace -Computers SV1,SV2 -Disk C
+Get-DiskSpace -Computers SV1,SV2 -Drive C
 ```
