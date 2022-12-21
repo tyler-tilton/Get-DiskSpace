@@ -4,9 +4,9 @@
 .DESCRIPTION
    Quickly get free and used disk space from one or more remote machines in a format that I like.
 .EXAMPLE
-   Get-DiskSpace -Computers SV1 -Disk D
+   Get-DiskSpace -Computers SV1 -Drive D
 .EXAMPLE
-   Get-DiskSpace -Computers SV1,SV2 -Disk C
+   Get-DiskSpace -Computers SV1,SV2 -Drive C
 .INPUTS
    Target computer name in a string or computers in a comma seperated array and a string for the disk drive letter.
 .OUTPUTS
