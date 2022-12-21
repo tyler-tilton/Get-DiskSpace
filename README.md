@@ -10,9 +10,9 @@ Tyler Tilton
 # Description
 The command takes in a remote machine name or names (cast to an arry) and a drive letter and outputs the following:
 ```
-PSComputerName Description             Used             Free
--------------- -----------             ----             ----
-PCI-PVSN001    Data        15259.4007720947 1124.41172790527
+PSComputerName Description             Used                Free
+-------------- -----------             ----                ----
+SV1             Data                    15259.4007720947    1124.41172790527
 ```
 The Computers parameter and the Drive parameter must be specified.
 # Usage
